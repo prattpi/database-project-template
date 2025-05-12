@@ -1,0 +1,1 @@
+-- stored_procedures.sql placeholder
