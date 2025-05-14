@@ -1,1 +1,0 @@
--- advanced_queries.sql placeholder
